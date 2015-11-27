@@ -2,6 +2,8 @@
 
 Created by **NickLatkovich**
 
+## [Играть](https://googledrive.com/host/0By05m6YZ9rvEMi1GNFJaRVVWdHc "Играть")
+
 >The objective of the puzzle is to move the entire stack to another rod, obeying the following simple rules
 
 ## Rules
